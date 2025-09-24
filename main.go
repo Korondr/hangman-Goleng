@@ -5,5 +5,4 @@ import (
 	"math/rand"
 	"os"
 	"strings"
-	"time"
 )
